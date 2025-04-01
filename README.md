@@ -1,3 +1,7 @@
+
+> [!important]
+> This repo is obsolete, and the Roboto project continues at [github.com/googlefonts/roboto-3-classic](https://github.com/googlefonts/roboto-3-classic)
+
 This is the source repository for Roboto: Google’s signature family
 of fonts, the default font on Android and Chrome OS, and the
 recommended font for Google’s visual language, Material Design.
